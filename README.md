@@ -6,4 +6,5 @@ Machine learning is important in data science because data scientists study tran
 
 
 
-![image](https://user-images.githubusercontent.com/98468845/229296375-c6437a88-031c-42b7-b258-59a46b3a7c4c.png)
+![image](https://user-images.githubusercontent.com/98468845/229296518-516fb317-d28b-4c24-9a19-e57ab4e80a4e.png)
+
