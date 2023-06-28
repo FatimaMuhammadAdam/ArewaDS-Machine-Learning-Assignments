@@ -15,4 +15,4 @@ while True:
         response = random.choice(random_responses)
         print(response)
 
-print("It was nice talking to you, goodbye!")
+print("It was a pleasure speaking with you; goodbye!")
